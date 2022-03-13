@@ -1,0 +1,2 @@
+# onNumaraTahminInterface
+ARAYÜZLÜ TAHMİN PROGRAMI
